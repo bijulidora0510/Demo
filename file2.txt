@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-sdhdjs
-sdjs
-Hello World
-=======
-This is good
-dhbsjbs
-adbajbha
-Bijuli Dora added new comments
->>>>>>> newbrnch
+x
+y
